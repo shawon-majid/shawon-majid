@@ -1,4 +1,6 @@
-![I am GitHub Readme Generator's creator](https://github.com/shawon-majid/shawon-majid/blob/c8a09dc94bba7a1ef1b190f91da6d8ee23adfc3a/gitCover.png)
+
+<!--- ![I am GitHub Readme Generator's creator](https://github.com/shawon-majid/shawon-majid/blob/c8a09dc94bba7a1ef1b190f91da6d8ee23adfc3a/gitCover.png) -->
+
 
 # Shawon Majid
 
