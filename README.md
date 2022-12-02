@@ -2,7 +2,7 @@
 <!--- ![I am GitHub Readme Generator's creator](https://github.com/shawon-majid/shawon-majid/blob/c8a09dc94bba7a1ef1b190f91da6d8ee23adfc3a/gitCover.png) -->
 
 
-# Shawon Majid
+# Shawon Majid says <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
 
 I'm a student currently studying Software Engineering at Shahjalal University of Science & Technology. I really enjoy learning data structures and algorithms. And I love doing Competitive Programming. I'm also interested in exploring core Object Oriented Programming concepts.
 
