@@ -6,6 +6,12 @@
 
 I'm a student currently studying Software Engineering at Shahjalal University of Science & Technology. I really enjoy learning data structures and algorithms. And I love doing Competitive Programming. I'm also interested in exploring core Object Oriented Programming concepts.
 
+<h3 align="left">📈 Github Overview</h3>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=shawon-majid&count_private=true&show_icons=true&&theme=midnight-purple&include_all_commits=true%22%20&hide_border=true)
+
+![Top Language](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shawon-majid&layout=compact&langs_count=8&theme=chartreuse-dark&hide_border=true&count_private=true)
+
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 
