@@ -4,7 +4,7 @@
 
 # Shawon Majid says <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I'm a student currently studying Software Engineering at <a href = "https://www.sust.edu/institutes/iict" <b>Shahjalal University of Science & Technology</b>. I really enjoy learning data structures and algorithms. And I love doing Competitive Programming. I'm also interested in exploring core Object Oriented Programming concepts.
+I'm a student currently studying Software Engineering at <a href = "https://www.sust.edu/institutes/iict" <b>Shahjalal University of Science & Technology</b></a>. I really enjoy learning data structures and algorithms. And I love doing Competitive Programming. I'm also interested in exploring core Object Oriented Programming concepts.
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
