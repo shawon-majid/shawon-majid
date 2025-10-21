@@ -4,7 +4,8 @@
 
 # Shawon Majid says <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 
-I'm a student currently studying Software Engineering at Shahjalal University of Science & Technology. I really enjoy learning data structures and algorithms. And I love doing Competitive Programming. I'm also interested in exploring core Object Oriented Programming concepts.
+AI | Cloud Infra | Automation
+Building systems that think, learn, and scale.
 
 <h3 align="left">📈 Github Overview</h3>
 <!-- 
