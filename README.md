@@ -19,7 +19,7 @@
 
 ### 👨‍💻 About me
 
-I'm a software engineer building **AI-augmented backends, agentic workflows, and serverless infrastructure**. Currently shipping production systems at [Vyg.ai](https://vyg.ai) — Conversation Insights at ~2.5k/day, an OAuth-protected MCP server, and CDP infra on GCP via Pulumi + Helm. Recently cut LLM inference cost by 50% via batch.
+I'm a software engineer building **AI-augmented backends, agentic workflows, and serverless infrastructure**. Currently shipping production systems at [vyg.ai](https://vyg.ai) | [liveRecover](https://liverecover.com) — Customer Data Layer (CDP integration), Conversation Insights at ~2.5k/day, an OAuth-protected MCP server, and infra on GCP via Pulumi + Helm | SST. Developed deepAgents, research agent with scraping.
 
 Before Vyg: AI Engineer at **Indigo** (DeepAgents on LangGraph), Intern Data Engineer at **Pathao**, and Contract Engineer at **Zenet** (Tokyo, remote).
 
@@ -30,7 +30,7 @@ Before Vyg: AI Engineer at **Indigo** (DeepAgents on LangGraph), Intern Data Eng
 ### 🚀 What I'm up to
 
 - 🔭 Building agentic AI systems that ship to real users at scale
-- 🌱 Going deep on **LangGraph**, **vector search**, and **GPU-aware orchestration**
+- 🌱 Going deep on **Agentic harness & orchestration**
 - ⚡ Obsessed with cloud infra economics — making LLM pipelines cheap, fast, and reliable
 - 🧗 Past life: Codeforces Specialist, 600+ problems solved, 1000+ across OJs
 
