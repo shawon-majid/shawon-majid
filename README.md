@@ -12,7 +12,6 @@
 <p align="center">
   <a href="https://shawonmajid.com"><img src="https://img.shields.io/badge/portfolio-shawonmajid.com-0A0A0A?style=for-the-badge&logo=vercel&logoColor=white" alt="portfolio" /></a>
   <img src="https://img.shields.io/badge/based-Sylhet%2C%20BD-1F6FEB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="location" />
-  <img src="https://img.shields.io/badge/status-open%20to%20work-3FB950?style=for-the-badge&logo=githubactions&logoColor=white" alt="open to work" />
   <img src="https://komarev.com/ghpvc/?username=shawon-majid&label=profile%20views&color=58A6FF&style=for-the-badge" alt="views" />
 </p>
 
@@ -91,12 +90,12 @@ Before Vyg: AI Engineer at **Indigo** (DeepAgents on LangGraph), Intern Data Eng
 ### 📈 GitHub Overview
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shawon-majid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="stats" />
+  <img height="180" src="https://shawon-readme-stats.vercel.app/api?username=shawon-majid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="stats" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shawon-majid&hide_border=true&theme=tokyonight" alt="streak" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawon-majid&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight" alt="top languages" />
+  <img height="180" src="https://shawon-readme-stats.vercel.app/api/top-langs/?username=shawon-majid&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight" alt="top languages" />
   <img height="180" src="https://github-profile-trophy.vercel.app/?username=shawon-majid&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies" />
 </p>
 
