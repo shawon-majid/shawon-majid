@@ -65,6 +65,7 @@ Before Vyg: AI Engineer at **Indigo** (DeepAgents on LangGraph), Intern Data Eng
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
 </p>
 
 **Cloud & Infra**
@@ -90,13 +91,16 @@ Before Vyg: AI Engineer at **Indigo** (DeepAgents on LangGraph), Intern Data Eng
 ### 📈 GitHub Overview
 
 <p align="center">
-  <img height="180" src="https://shawon-readme-stats.vercel.app/api?username=shawon-majid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="stats" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=shawon-majid&hide_border=true&theme=tokyonight" alt="streak" />
+  <img width="700" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shawon-majid&theme=tokyonight" alt="GitHub profile summary" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://shawon-readme-stats.vercel.app/api/top-langs/?username=shawon-majid&layout=compact&langs_count=8&count_private=true&hide_border=true&theme=tokyonight" alt="top languages" />
-  <img height="180" src="https://github-profile-trophy.vercel.app/?username=shawon-majid&theme=tokyonight&no-frame=true&column=4&row=2&margin-w=8&margin-h=8" alt="trophies" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shawon-majid&theme=tokyonight" alt="GitHub stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shawon-majid&theme=tokyonight" alt="top languages by commit" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shawon-majid&theme=tokyonight&utcOffset=6" alt="productive time" />
 </p>
 
 <p align="center">
